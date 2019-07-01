@@ -1,1 +1,2 @@
-//this is index.js
+//this 
+console.log('hellow word');
